@@ -1,16 +1,32 @@
-### Hi there 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=sanakyo"></img>
+# 👋 Hi there, welcome to my profile!
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m currently learning <strong>Typescript</strong>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ I'm currently interested in some <strong>web development</strong></p>
 
-<!--
-**Sanakyo/Sanakyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>📫 How to reach me</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com">
+<img src="https://discord.com/assets/favicon.ico" width="16" height="16" align="center"> @Sanakyo</a><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>📚 My skills</h1>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="16" height="16" align="center"> Javascript
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.typescriptlang.org/favicon.ico" width="16" height="16" align="center"> Typescript
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://nodejs.org/static/images/favicons/favicon.png" width="16" height="16" align="center"> Node.JS
+</p>
+<h1>🛠️  Currently maintaining</h1>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git.siru.moe">☕ cocochino.cafe</a>
+</p>
+<h1>📊 Github stats</h1>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=sanakyo&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanakyo&hide_border=true&langs_count=10&theme=material-palenight&layout=compact" /><br>
+</p>
