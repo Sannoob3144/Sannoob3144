@@ -22,7 +22,7 @@
 <h1>🛠️  Currently maintaining</h1>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git.siru.moe">☕ cocochino.cafe</a>
+  <a href="https://github.com/cocochino.cafe">☕ cocochino.cafe</a>
 </p>
 <h1>📊 Github stats</h1>
 <p>
