@@ -6,7 +6,7 @@
 <h1>📫 How to reach me</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com">
-<img src="https://discord.com/assets/favicon.ico" width="16" height="16" align="center"> @haruame</a><br>
+<img src="https://discord.com/assets/favicon.ico" width="16" height="16" align="center"> @harusame3144</a><br>
 
 <h1>📚 My skills</h1>
 <p>
@@ -22,7 +22,7 @@
 <h1>🛠️  Currently maintaining</h1>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SiruBOT">☕ cocochino.cafe</a>
+  <a href="https://github.com/SiruBOT">☕ kafuu.space</a>
 </p>
 <h1>📊 Github stats</h1>
 <p>
